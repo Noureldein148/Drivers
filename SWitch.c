@@ -1,7 +1,7 @@
-/***************************** DIO_private.h****************************
+/***************************** Switch ****************************
 *   Author: Nour El Dein Hany
-*   Layer : MCAL
-*   SWC   : DIO/GPIO
+*   Layer : HAL
+*   SWC   :SWITCH
 */
 #include "DIO_interface.h"
 #include "BITMATH.h"
