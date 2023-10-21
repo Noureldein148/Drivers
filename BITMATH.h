@@ -1,7 +1,7 @@
-/***************************** DIO_private.h****************************
+/*********************************************************
 *   Author: Nour El Dein Hany
-*   Layer : MCAL
-*   SWC   : DIO/GPIO
+*   Layer : LIB
+*   SWC   : BITMATH
 */
 #ifndef BITMATH_H_INCLUDED
 #define BITMATH_H_INCLUDED
