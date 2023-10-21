@@ -1,4 +1,4 @@
-/***************************** DIO_private.h****************************
+/***************************** DIO_program.h****************************
 *   Author: Nour El Dein Hany
 *   Layer : MCAL
 *   SWC   : DIO/GPIO
