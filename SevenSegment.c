@@ -1,7 +1,9 @@
 /***************************** DIO_private.h****************************
-*   Author: Nour El Dein Hany
-*   Layer : MCAL
-*   SWC   : DIO/GPIO
+*   Author  : Nour El Dein Hany
+*   Layer   : HAL
+*   SWC     : Seven Segment
+*   Date    : 20/10/2023
+*   Version : 1.0
 */
 #include "SevenSegment.h"
 #include "SevenSegment_Config.h"
