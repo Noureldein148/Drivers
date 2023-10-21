@@ -1,7 +1,6 @@
-/***************************** DIO_private.h****************************
+/***************************** STD_TYPES.h****************************
 *   Author: Nour El Dein Hany
-*   Layer : MCAL
-*   SWC   : DIO/GPIO
+*   Layer : LIB
 */
 #ifndef STD_TYPES_H__H_INCLUDED
 #define STD_TYPES_H__H_INCLUDED
